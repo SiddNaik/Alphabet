@@ -1,5 +1,5 @@
 ABCDEFG
 HIJK
 LMNOP
-QRS
+QRSWXY and Z
 Now I know my ABC's
